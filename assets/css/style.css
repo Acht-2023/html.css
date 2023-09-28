@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header {
+  height: 739px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: url('../img/bg.png');
+}
+.lolo {
+  text-align: center;
+}
+.logo {
+  margin-top: 41px;
+}
+h1 {
+  margin-bottom: 0;
+  font-size: 60px;
+  margin-top: 287px;
+  color: white;
+}
+p {
+  color: white;
+  margin-bottom: 221px;
+}
+p1 {
+  color: white;
+}
+nav {
+  height: 65px;
+  box-shadow: 10px;
+}
+.logob {
+  height: 18px;
+  margin-top: 24px;
+  margin-left: 251px;
+}
+p2 {
+  color: #48555b;
+  font-size: 12px;
+}
+p3 {
+  font-size: 12px;
+  color: #00a4e5;
+}
+main {
+  display: flex;
+  height: 344px;
+  width: 941px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.menu {
+  word-spacing: 48px;
+  float: right;
+  margin-top: 25px;
+  margin-right: 250px;
+}
+aside {
+  margin-top: 58px;
+  text-align: center;
+}
+h2 {
+  color: #48555b;
+  margin: 0;
+  text-align: center;
+}
+h3 {
+  margin-top: 90px;
+  font-size: 20px;
+  color: #48555b;
+  width: 405px;
+  display: block;
+}
+p5 {
+  height: 115px;
+  font-size: 13px;
+  color: #48555b;
+  margin-top: 30px;
+  width: 405px;
+  display: block;
+}
+.wepl {
+  margin-left: 67px;
+  word-spacing: 20px;
+  margin-top: 84px;
+}
+footer {
+  text-align: center;
+  margin-top: 82px;
+  height: 60px;
+  background-color: #171819;
+}
+p6 {
+  color: #ffffff;
+}
+.foot {
+  padding-top: 22px;
+}
